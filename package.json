@@ -1,7 +1,7 @@
 {
-  "name": "@conway/automaton",
-  "version": "0.1.0",
-  "description": "Conway Automaton - Sovereign AI Agent Runtime",
+  "name": "@sirg/automaton",
+  "version": "0.1.0-sirg.1",
+  "description": "Sirg's Automaton - Autonomous AI Agent for Ideas Guys Project. Forked from Conway Research.",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -20,19 +20,21 @@
     }
   },
   "bin": {
+    "sirg-automaton": "dist/index.js",
     "automaton": "dist/index.js",
     "conway-automaton": "dist/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Conway-Research/automaton.git"
+    "url": "https://github.com/colorfinance/automaton.git"
   },
-  "homepage": "https://conway.tech",
+  "homepage": "https://github.com/colorfinance/automaton-sirg",
   "keywords": [
     "autonomous-agent",
     "sovereign-ai",
     "web4",
-    "conway",
+    "sirg",
+    "ideas-guys",
     "self-replicating"
   ],
   "license": "MIT",

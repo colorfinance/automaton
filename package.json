@@ -1,5 +1,5 @@
 {
-  "name": "@sirg/automaton",
+  "name": "@conway/automaton",
   "version": "0.1.0-sirg.1",
   "description": "Sirg's Automaton - Autonomous AI Agent for Ideas Guys Project. Forked from Conway Research.",
   "type": "module",
